@@ -1,0 +1,90 @@
+{
+    "usage": {
+    "text_units": 1,
+    "text_characters": 127,
+    "features": 1
+    },
+    "semantic_roles": [
+    {
+    "subject": {
+    "text": "I"
+    },
+    "sentence": "Good morning: when I was posting the general journal I found this error: posting date is not within the range of allowed dates.",
+    "object": {
+    "text": "posting the general journal I found this error",
+    "keywords": [
+    {
+    "text": "general journal"
+    },
+    {
+    "text": "error"
+    }
+    ]
+    },
+    "action": {
+    "verb": {
+    "text": "be",
+    "tense": "past"
+    },
+    "text": "was",
+    "normalized": "be"
+    }
+    },
+    {
+    "subject": {
+    "text": "I"
+    },
+    "sentence": "Good morning: when I was posting the general journal I found this error: posting date is not within the range of allowed dates.",
+    "object": {
+    "text": "the general journal I found this error",
+    "keywords": [
+    {
+    "text": "error"
+    },
+    {
+    "text": "general journal"
+    }
+    ]
+    },
+    "action": {
+    "verb": {
+    "text": "post",
+    "tense": "past"
+    },
+    "text": "was posting",
+    "normalized": "be post"
+    }
+    },
+    {
+    "subject": {
+    "text": "posting date",
+    "keywords": [
+    {
+    "text": "date"
+    }
+    ]
+    },
+    "sentence": "Good morning: when I was posting the general journal I found this error: posting date is not within the range of allowed dates.",
+    "object": {
+    "text": "not within the range of allowed dates",
+    "keywords": [
+    {
+    "text": "range"
+    },
+    {
+    "text": "dates"
+    }
+    ]
+    },
+    "action": {
+    "verb": {
+    "text": "be",
+    "tense": "present"
+    },
+    "text": "is",
+    "normalized": "be"
+    }
+    }
+    ],
+    "language": "en"
+    }

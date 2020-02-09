@@ -1,0 +1,46 @@
+{
+    "tags": [
+        {
+            "name": "sky",
+            "confidence": 0.99999034404754639
+        },
+        {
+            "name": "person",
+            "confidence": 0.99938201904296875
+        },
+        {
+            "name": "outdoor",
+            "confidence": 0.99894469976425171
+        },
+        {
+            "name": "man",
+            "confidence": 0.99297571182250977
+        },
+        {
+            "name": "water",
+            "confidence": 0.979530930519104
+        },
+        {
+            "name": "human face",
+            "confidence": 0.96689260005950928
+        },
+        {
+            "name": "beach",
+            "confidence": 0.95207488536834717
+        },
+        {
+            "name": "clothing",
+            "confidence": 0.82670098543167114
+        },
+        {
+            "name": "shore",
+            "confidence": 0.15449938178062439
+        }
+    ],
+    "requestId": "089ab40c-d680-41b4-a852-b2145b7f0dd7",
+    "metadata": {
+        "width": 183,
+        "height": 194,
+        "format": "Png"
+    }
+}

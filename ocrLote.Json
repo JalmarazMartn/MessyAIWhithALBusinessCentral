@@ -1,0 +1,25 @@
+{
+    "language": "fr",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+        {
+            "boundingBox": "35,146,417,42",
+            "lines": [
+                {
+                    "boundingBox": "35,146,417,42",
+                    "words": [
+                        {
+                            "boundingBox": "35,146,108,42",
+                            "text": "LOT:"
+                        },
+                        {
+                            "boundingBox": "166,146,286,42",
+                            "text": "L-190701-B"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

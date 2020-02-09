@@ -1,0 +1,133 @@
+{
+    "categories": [
+        {
+            "name": "people_",
+            "score": 0.5,
+            "detail": {
+                "celebrities": []
+            }
+        },
+        {
+            "name": "people_portrait",
+            "score": 0.44921875,
+            "detail": {
+                "celebrities": []
+            }
+        }
+    ],
+    "adult": {
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "adultScore": 0.018986787647008896,
+        "racyScore": 0.020834403112530708
+    },
+    "color": {
+        "dominantColorForeground": "Black",
+        "dominantColorBackground": "Grey",
+        "dominantColors": [],
+        "accentColor": "1F67AC",
+        "isBwImg": false,
+        "isBWImg": false
+    },
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "tags": [
+        {
+            "name": "sky",
+            "confidence": 0.99999034404754639
+        },
+        {
+            "name": "person",
+            "confidence": 0.99938201904296875
+        },
+        {
+            "name": "outdoor",
+            "confidence": 0.99894469976425171
+        },
+        {
+            "name": "man",
+            "confidence": 0.99297571182250977
+        },
+        {
+            "name": "water",
+            "confidence": 0.979530930519104
+        },
+        {
+            "name": "human face",
+            "confidence": 0.96689260005950928
+        },
+        {
+            "name": "beach",
+            "confidence": 0.95207488536834717
+        },
+        {
+            "name": "clothing",
+            "confidence": 0.82670098543167114
+        },
+        {
+            "name": "shore",
+            "confidence": 0.15449938178062439
+        }
+    ],
+    "description": {
+        "tags": [
+            "person",
+            "outdoor",
+            "man",
+            "water",
+            "holding",
+            "beach",
+            "standing",
+            "ocean",
+            "smiling",
+            "posing",
+            "boat",
+            "body",
+            "frisbee",
+            "young",
+            "sign",
+            "flying",
+            "white",
+            "field"
+        ],
+        "captions": [
+            {
+                "text": "a man standing next to a body of water",
+                "confidence": 0.88496057423986962
+            }
+        ]
+    },
+    "faces": [
+        {
+            "age": 45,
+            "gender": "Male",
+            "faceRectangle": {
+                "left": 37,
+                "top": 65,
+                "width": 73,
+                "height": 73
+            }
+        }
+    ],
+    "objects": [
+        {
+            "rectangle": {
+                "x": 0,
+                "y": 34,
+                "w": 166,
+                "h": 160
+            },
+            "object": "person",
+            "confidence": 0.843
+        }
+    ],
+    "brands": [],
+    "requestId": "f02e1198-1ab7-4cca-8271-e4927f623e22",
+    "metadata": {
+        "width": 183,
+        "height": 194,
+        "format": "Png"
+    }
+}
